@@ -77,16 +77,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riteshrawat999&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=riteshrawat999&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshrawat999&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 💼 Open to Opportunities
+- 👨‍💻 Looking for: **Flutter Developer (Intern / Junior Role)**  
+- 🌍 Open to: Remote / On-site  
+- 📩 Contact: ritesh.flutter@gmail.com  
 
 ---
 
@@ -97,10 +91,16 @@
 
 ---
 
-## 💼 Open to Opportunities
-- 👨‍💻 Looking for: **Flutter Developer (Intern / Junior Role)**  
-- 🌍 Open to: Remote / On-site  
-- 📩 Contact: ritesh.flutter@gmail.com  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riteshrawat999&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=riteshrawat999&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshrawat999&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
