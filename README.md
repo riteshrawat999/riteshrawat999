@@ -23,16 +23,21 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/ritesh-flutter/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://medium.com/@fluttergyaan" target="blank">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="mailto:ritesh.flutter@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/ritesh-flutter/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@fluttergyaan" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:ritesh.flutter@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-xi-nine-nfe29iwupd.vercel.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1802/1802977.png" height="28" />
+  </a>
 </p>
+
+
 
 ---
 
